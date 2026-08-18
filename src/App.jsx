@@ -134,7 +134,7 @@ function Home({ go }) {
           <p>한 반 최대 6명. 학생별 수준에 맞춘 개별 진도와 교재,<br />수업 이후까지 이어지는 꼼꼼한 관리.</p>
           <button onClick={() => go("/brand")}>김샘의 교육 알아보기 <ArrowRight size={20} /></button>
         </div>
-        <div className="hero-image"><img src="/assets/academy-classroom-wide.jpg" alt="김샘 수학 과학 학원에서 공부하는 학생들" /></div>
+        <div className="hero-image"><img src="/assets/academy-hero-classroom.png" alt="김샘 수학 과학 학원에서 공부하는 학생들" /></div>
       </section>
 
       <section className="program-section shell section-pad">
