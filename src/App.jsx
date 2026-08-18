@@ -18,7 +18,7 @@ const PHONE_DISPLAY = "010-3808-0032";
 const PHONE_VALUE = "01038080032";
 
 const navItems = [
-  { label: "브랜드 소개", href: "/brand" },
+  { label: "학원 소개", href: "/brand" },
   { label: "교육과정", href: "/curriculum" },
   { label: "연혁", href: "/history" },
   { label: "문의", href: "/tuition" },
